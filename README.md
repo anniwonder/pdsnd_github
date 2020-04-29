@@ -1,15 +1,15 @@
-### Date created
+### 29th April 2020
 Include the date you created this project and README file.
 
-### Project Title
+### GitHub Reop Bikeshare
 Replace the Project Title
 
-### Description
+### Creating a repo on GitHub using Mac Terminal, git and Atom
 Describe what your project is about and what it does
 
-### Files used
+### bikeshare.py
 Include the files used
 
-### Credits
+### Charles Hieger: https://www.youtube.com/watch?v=N6wQ28h-MmE
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
